@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5bd8589-04f4-4f7e-a8a2-f13830d61a01" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../LibAlgorithms/Leetcode/13_roman_to_integer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LibAlgorithms/Leetcode/7_reverse_integer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LibAlgorithms/Leetcode/9_palindrom_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analysis/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analysis/nlp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../analysis/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../greatproject/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../greatproject/blog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/58f2f1c7-4545-49a1-99e9-f96bc6be1fe7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask-GZip/flask_gzip/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask-GZip/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask-YouTube/MANIFEST.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask-YouTube/flask_youtube/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask-YouTube/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask-YouTube/templates/youtube/video.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alembic.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/babel/babel.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/babel/messages.pot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/celery_runner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/celerybeat-schedule.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/celerybeat-schedule.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/celerybeat-schedule.dir" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deploy/Jenkins/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deploy/Jenkins/run.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deploy/docker/Dockerfile_frontend" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deploy/docker/Dockerfile_worker" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deploy/docker/cfn_myblog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deploy/docker/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deploy/docker/prod.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deploy/docker/worker_entrypoint.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deploy/supervisor_worker.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deploy/uwsgi.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gserver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heroku-uwsgi.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/coverage_html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/jquery.ba-throttle-debounce.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/jquery.hotkeys.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/jquery.isonscreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/jquery.tablesorter.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/keybd_closed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/keybd_open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/status.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/webapp___init___py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/webapp_admin___init___py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/webapp_admin_controllers_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/webapp_admin_forms_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/webapp_api___init___py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/webapp_api_blog_controllers_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/webapp_api_blog_fields_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/webapp_api_blog_parsers_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/webapp_auth___init___py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/webapp_auth_controllers_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/webapp_auth_forms_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/webapp_auth_models_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/webapp_babel___init___py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/webapp_babel_controllers_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/webapp_blog___init___py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/webapp_blog_controllers_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/webapp_blog_forms_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/webapp_blog_models_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/webapp_blog_tasks_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/webapp_cli_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/webapp_main___init___py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlcov/webapp_main_controllers_py.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install_flask_youtube.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/alembic.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/script.py.mako" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/versions/2505ad08a7d0_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/versions/3bfc81510c43_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/versions/8cd8609c0cd6_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/versions/de98b573d5b4_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_test_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_ui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tserver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/admin/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/admin/controllers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/admin/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/api/blog/controllers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/api/blog/fields.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/api/blog/parsers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/auth/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/auth/controllers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/auth/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/auth/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/babel/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/babel/controllers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/blog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/blog/controllers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/blog/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/blog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/blog/tasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/cli.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/main/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/main/controllers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/static/main_js/Conda_Essentials.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/templates/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/templates/admin/custom.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/templates/admin/post_edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/templates/admin/second_page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/templates/auth/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/templates/auth/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/templates/blog/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/templates/blog/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/templates/blog/new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/templates/blog/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/templates/blog/rightbody.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/templates/blog/tag.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/templates/blog/user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/templates/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/templates/head.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/templates/macros.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/templates/messages.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/templates/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/templates/youtube/video.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/translations/pt/LC_MESSAGES/messages.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/translations/uk/LC_MESSAGES/messages.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mini3mongo/.flaskenv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mini3mongo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mini3mongo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mini3mongo/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mini3mongo/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mini3mongo/init.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mini3mongo/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mini3mongo/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mini3mongo/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mini3mongo/test_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mini3mongo/webapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mini3mongo/webapp/auth/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mini3mongo/webapp/auth/controllers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mini3mongo/webapp/auth/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mini3mongo/webapp/auth/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mini3mongo/webapp/blog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mini3mongo/webapp/blog/controllers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mini3mongo/webapp/blog/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mini3mongo/webapp/blog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mini3mongo/webapp/main/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mini3mongo/webapp/main/controllers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mini3mongo/webapp/templates/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mini3mongo/webapp/templates/auth/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mini3mongo/webapp/templates/auth/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mini3mongo/webapp/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mini3mongo/webapp/templates/blog/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mini3mongo/webapp/templates/blog/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mini3mongo/webapp/templates/blog/new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mini3mongo/webapp/templates/blog/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mini3mongo/webapp/templates/blog/rightbody.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mini3mongo/webapp/templates/blog/tag.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mini3mongo/webapp/templates/blog/user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mini3mongo/webapp/templates/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mini3mongo/webapp/templates/head.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mini3mongo/webapp/templates/macros.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mini3mongo/webapp/templates/messages.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mini3mongo/webapp/templates/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniflask/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniflask/templates/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniflask/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniflask/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniflask/templates/user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/pdf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/pdf_reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/pdfplumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Projects" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../djangos/demo" beforeDir="false" afterPath="$PROJECT_DIR$/../../djangos/demo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flaskenv" beforeDir="false" afterPath="$PROJECT_DIR$/.flaskenv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mini2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mini2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/init.sh" beforeDir="false" afterPath="$PROJECT_DIR$/init.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="JupyterTrust" id="cad68a12-57ae-4684-8e3a-4ae8561f23b5" />
+  <component name="ProjectId" id="1fk9U4EkBnNAr2C0QwKZFtqXGTk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\src\flaskos\mini2\webapp\translations" />
+      <recent name="E:\src\flaskos\mini2\templates" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <myKeys>
+      <visibility group="Grunt tasks" flag="true" />
+      <visibility group="Gulp tasks" flag="true" />
+      <visibility group="Recent projects" flag="true" />
+      <visibility group="Run configurations" flag="true" />
+      <visibility group="npm" flag="true" />
+      <visibility group="yarn" flag="true" />
+    </myKeys>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for test_urls.TestURLs.test_failed_login">
+    <configuration name="mini2" type="Python.FlaskServer">
+      <module name="mini2" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_urls.TestURLs.test_failed_login" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="mini2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_urls.TestURLs.test_failed_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_urls.TestURLs.test_login" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="mini2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_urls.TestURLs.test_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_urls.TestURLs.test_root_redirect" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="mini2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_urls.TestURLs.test_root_redirect&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for test_urls.TestURLs.test_failed_login" />
+        <item itemvalue="Python tests.Unittests for test_urls.TestURLs.test_login" />
+        <item itemvalue="Python tests.Unittests for test_urls.TestURLs.test_root_redirect" />
+        <item itemvalue="Docker.Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5bd8589-04f4-4f7e-a8a2-f13830d61a01" name="Default Changelist" comment="" />
+      <created>1596751235459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596751235459</updated>
+      <workItem from="1596751262449" duration="464000" />
+      <workItem from="1596789193266" duration="18054000" />
+      <workItem from="1596878931634" duration="765000" />
+      <workItem from="1596880526723" duration="789000" />
+      <workItem from="1596881678120" duration="517000" />
+      <workItem from="1596882647731" duration="58000" />
+      <workItem from="1596883777550" duration="697000" />
+      <workItem from="1596884887444" duration="679000" />
+      <workItem from="1596885780674" duration="3707000" />
+      <workItem from="1596900421354" duration="7475000" />
+      <workItem from="1596912239051" duration="270000" />
+      <workItem from="1597000866782" duration="1034000" />
+      <workItem from="1597036482526" duration="7724000" />
+      <workItem from="1597050366303" duration="8841000" />
+      <workItem from="1597068046724" duration="17707000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="309" y="42" key="#Inspections" timestamp="1597222402094">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="309" y="42" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1597222402094" />
+    <state x="414" y="184" key="#Notifications" timestamp="1596900035852">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="414" y="184" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1596900035852" />
+    <state x="275" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597071814992">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1597071814992" />
+    <state x="409" y="159" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597218810600">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="409" y="159" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1597218810600" />
+    <state x="363" y="101" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1596882140793">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="101" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1596882140793" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1597071808844">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597071808844" />
+    <state width="1325" height="177" key="GridCell.Tab.0.bottom" timestamp="1597226386698">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1325" height="177" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597226386698" />
+    <state width="1325" height="177" key="GridCell.Tab.0.center" timestamp="1597226386697">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1325" height="177" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597226386697" />
+    <state width="1325" height="177" key="GridCell.Tab.0.left" timestamp="1597226386696">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1325" height="177" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597226386696" />
+    <state width="1325" height="177" key="GridCell.Tab.0.right" timestamp="1597226386698">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1325" height="177" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597226386698" />
+    <state width="213" height="538" key="HiddenNamespacesPopup" timestamp="1596911150017">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="213" height="538" key="HiddenNamespacesPopup/0.0.1366.728@0.0.1366.728" timestamp="1596911150017" />
+    <state x="218" y="99" key="IDE.errors.dialog" timestamp="1596751569119">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="218" y="99" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1596751569119" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1597223173710">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1597223173710" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mini2$Unittests_for_test_urls_TestURLs_test_failed_login.coverage" NAME="Unittests for test_urls.TestURLs.test_failed_login Coverage Results" MODIFIED="1597226222621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/mini2$Unittests_for_test_urls_TestURLs_test_login.coverage" NAME="Unittests for test_urls.TestURLs.test_login Coverage Results" MODIFIED="1597226194766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/mini2$Unittests_for_test_urls_TestURLs_test_root_redirect.coverage" NAME="Unittests for test_urls.TestURLs.test_root_redirect Coverage Results" MODIFIED="1597225245451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+  </component>
+  <component name="regexState">
+    <option name="map">
+      <map>
+        <entry key="flags" value="0" />
+        <entry key="mode" value="0" />
+        <entry key="regex" value="(19||20)\d\d([- /.])(0[1-9]||1[012])\2(0[1-9]||[12][0-9]||3[01])" />
+        <entry key="text" value="1900-01-01 2007/08/13 1900.01.01 1900 01 01 1900-01.01 1900 13 01 1900 02 31" />
+      </map>
+    </option>
+  </component>
+</project>
